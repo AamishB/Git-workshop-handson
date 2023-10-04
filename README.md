@@ -1,1 +1,2 @@
-"# Git-workshop-handson" 
+# First Repository
+This is my first repo, hello world!
